@@ -1,0 +1,8 @@
+setup.py
+clases/__init__.py
+clases/cliente.py
+clases/producto.py
+paquetetienda.egg-info/PKG-INFO
+paquetetienda.egg-info/SOURCES.txt
+paquetetienda.egg-info/dependency_links.txt
+paquetetienda.egg-info/top_level.txt
